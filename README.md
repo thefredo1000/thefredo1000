@@ -1,5 +1,5 @@
-### Hola
+### Hello
 
-My name is Rodrigo Casale.
+My name is Rodrigo Casale. 
 
-That's it, if you want to know more about me contact me :)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thefredo1000&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical)
